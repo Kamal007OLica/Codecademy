@@ -85,7 +85,7 @@ Through this course, I’ve gained proficiency in:
 2. **Run the Projects**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/codecademy-full-stack-engineer.git
+     git clone https://github.com/your-username/codecademy.git
      ```
    - Follow the instructions in each project’s `README.md` to set up and run the code.
 
