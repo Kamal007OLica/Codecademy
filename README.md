@@ -111,6 +111,10 @@ Through this course, I’ve gained proficiency in:
 
 Whether you’re a fellow learner, a mentor, or just curious about full-stack development, I invite you to explore this repository and join me on this exciting journey. Let’s learn, build, and grow together!
 
+(add community Forum Link) 
+
+![image](https://github.com/user-attachments/assets/6f36f23a-4630-4287-9995-e838e61f7d2f)
+
 ---
 
 **Star ⭐ this repository** if you find it helpful, and don’t forget to follow for updates on new projects and exercises. Happy coding! 🚀
@@ -120,5 +124,7 @@ Whether you’re a fellow learner, a mentor, or just curious about full-stack de
 Let me know if you’d like further customization or additional sections! 😊
 
 --- 
-  ![image](https://github.com/user-attachments/assets/b9034860-23ce-4af9-bb87-72a4af96b30c)
+![image](https://github.com/user-attachments/assets/936bef51-e8ae-49f2-ac60-71402795129b)
+
+
 
