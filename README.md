@@ -1,7 +1,10 @@
 
-# **Codecademy Full Stack Engineer Projects** 🚀
+# **Codecademy Full Stack Engineer**
 
 Welcome to my **Codecademy Full Stack Engineer GitHub Repository**! This repository showcases my journey through Codecademy’s Full Stack Engineer Career Path, where I’ve learned and applied the skills needed to build modern, full-stack web applications. From frontend design to backend development and database management, this repository is a collection of projects, exercises, and challenges that demonstrate my growth as a full-stack developer.
+
+![image](https://github.com/user-attachments/assets/475960e3-7737-4a3b-8bff-d1e35f5fb92d)
+
 
 ---
 
