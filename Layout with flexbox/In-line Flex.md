@@ -7,5 +7,7 @@
 ```
 
 Sure! In this exercise, the <div> elements are used as containers to hold other elements. By setting the display property to inline-flex, these containers become flexible boxes that can line up next to each other on the same line, like words in a sentence.
+![image](https://github.com/user-attachments/assets/cc79b11a-9ee8-4273-9e07-5f9ebbb1e9db)
 
 Inside each container, there are smaller boxes (.box elements) that are arranged side by side. Flexbox helps to easily control the layout and spacing of these boxes, making them adjust to fit within the container. This is useful for creating responsive designs that look good on different screen sizes.
+
