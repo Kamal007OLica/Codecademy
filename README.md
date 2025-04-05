@@ -124,7 +124,6 @@ Whether you’re a fellow learner, a mentor, or just curious about full-stack de
 Let me know if you’d like further customization or additional sections! 😊
 
 --- 
-![image](https://github.com/user-attachments/assets/936bef51-e8ae-49f2-ac60-71402795129b)
 
 
 
