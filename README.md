@@ -111,7 +111,7 @@ Through this course, I’ve gained proficiency in:
 
 Whether you’re a fellow learner, a mentor, or just curious about full-stack development, I invite you to explore this repository and join me on this exciting journey. Let’s learn, build, and grow together!
 
-(add community Forum Link) 
+(add community Forum Link - codeacademy) 
 
 ![image](https://github.com/user-attachments/assets/6f36f23a-4630-4287-9995-e838e61f7d2f)
 
