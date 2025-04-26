@@ -6,8 +6,6 @@ Welcome to my **Codecademy Full Stack Engineer GitHub Repository**! This reposit
 ![image](https://github.com/user-attachments/assets/475960e3-7737-4a3b-8bff-d1e35f5fb92d)
 
 
----
-
 ## **What’s Inside?** 📚
 
 This repository is organized into modules and projects, each focusing on a specific skill or technology. Here’s what you’ll find:
