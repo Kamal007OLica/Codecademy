@@ -33,7 +33,7 @@ This repository is organized into modules and projects, each focusing on a speci
    - Testing with Jest and Mocha.
    - Deployment using platforms like Heroku and Netlify.
 
-
+---
 
 ## **Featured Projects** ✨
 
